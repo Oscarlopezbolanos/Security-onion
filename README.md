@@ -57,6 +57,8 @@ Deploy a working Security Onion SIEM/NDR platform capable of:
 | Security Onion | 192.168.120.130 | SIEM/NDR |
 | Network | 192.168.120.0/24 | Host-only network |
 | Wazuh Siem | 192.168.120.102 | SIEM/EDR |
+| Pfsense | 192.168.120.254 | Firewall |
+
 
 ---
 
