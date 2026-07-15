@@ -53,8 +53,8 @@ Deploy a working Security Onion SIEM/NDR platform capable of:
 | System | IP Address | Purpose |
 |----------|------------|----------|
 | Windows Host | 192.168.120.1 | VirtualBox Host Adapter |
-| Kali Linux | 192.168.120.100 | Attack/Testing VM |
-| Security Onion | 192.168.120.130 | SIEM/NDR |
+| Kali Linux | 192.168.120.105 | Attack/Testing VM |
+| Security Onion | 192.168.120.150 | SIEM/NDR |
 | Network | 192.168.120.0/24 | Host-only network |
 | Wazuh Siem | 192.168.120.102 | SIEM/EDR |
 | Pfsense | 192.168.120.254 | Firewall |
